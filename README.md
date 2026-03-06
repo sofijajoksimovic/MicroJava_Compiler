@@ -1,4 +1,4 @@
-# MicroJava_Compiler
+# MicroJava Compiler
 
 **Author:** Sofija Joksimović  
 
@@ -67,6 +67,3 @@ The compiler includes four main components:
 - **JUnit / custom tests** – for validation of parser, semantic analyzer, and code generator
 
 ## Source code will be published after the course policy allows it.
-
-
-## Project Structure
