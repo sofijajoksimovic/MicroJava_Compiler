@@ -1,7 +1,5 @@
 # MicroJava_Compiler
 
-# MikroJava Compiler
-
 **Author:** Sofija Joksimović  
 
 ## Project Overview
@@ -70,6 +68,5 @@ The compiler includes four main components:
 
 ## Source code will be published after the course policy allows it.
 
----
 
 ## Project Structure
